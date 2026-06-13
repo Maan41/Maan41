@@ -1,8 +1,16 @@
 - 👋 Hi, I’m @Maan41
-- currently doing Btech biotechnology and cs minor
-- 👀 I’m interested in learning to code and become a devoloper
-- 🌱 I’m currently learning DSA in c++ and operating systems
-- 💞️ I’m looking to collaborate on learning 
+
+🎓 Biotechnology student with a CS minor
+
+👀 Interested in AI, Machine Learning, coding, music production, and building cool projects
+
+🌱 Currently learning ML, Deep Learning, Python, and data science
+
+🔬 Exploring healthcare AI, neuroimaging, and genomics
+
+💞️ Always open to learning and collaborating with others
+
+⚡ Trying to get 1% better every day
 
 
 <!---
