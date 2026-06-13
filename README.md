@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maan41
+👋 Hi, I’m @Maan41
 
 🎓 Biotechnology student with a CS minor
 
